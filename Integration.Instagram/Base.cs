@@ -11,10 +11,7 @@ namespace Integration.Instagram
 {
     public class Base
     {
-        public static InstagramConfig config;
-
-
-       
+        public static InstagramConfig config;       
 
 
         public static void Authenticate()
