@@ -15,7 +15,7 @@ namespace Integration.Instagram
 
 
         public static void Authenticate()
-        {
+        { 
             config = new InstagramConfig("https://api.instagram.com/v1",
                 "https://api.instagram.com/oauth", "eac7bb50e619481ca39defc185e8fd15",
                 "fd400937d6ee4f50bc8b0f696003841d", "");
